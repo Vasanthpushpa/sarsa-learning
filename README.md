@@ -92,7 +92,8 @@ def sarsa(env,
 ## OUTPUT:
 
 ### Optimal Policy:
-![image](https://github.com/user-attachments/assets/8ecfbd9b-010a-4289-bc01-a5f5adafe411)
+![image](https://github.com/user-attachments/assets/d3c6d874-5a1e-4061-9b17-67b2b84ff849)
+
 
 
 ### First Visit Monte Carlo Method:
